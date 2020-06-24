@@ -1,0 +1,24 @@
+{
+  "name": "next-js-react-bootstrap",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next -p 8080",
+    "build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "js-cookie": "^2.2.1",
+    "next": "^9.3.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "next": "9.3.5"
+  }
+}
